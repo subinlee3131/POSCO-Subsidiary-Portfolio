@@ -1,0 +1,537 @@
+{
+  "year": 2022,
+  "sourceUrl": "https://posco.com/docs/kor7/jsp/resources/file/ir/POSCO_consolidated_FY22.pdf",
+  "sourceSha256": "8a60dce79b00f4c85671dd36055f6481c62a6cab4ca22145a8113165acf0d4a1",
+  "master": [
+    {
+      "cells": [
+        "포스코스틸리온 주식회사 (구, 포스코강판㈜)",
+        "철강재 제조 및 판매",
+        "56.87",
+        "-",
+        "56.87",
+        "경북 포항"
+      ],
+      "page": 15,
+      "domesticOverseas": "국내"
+    },
+    {
+      "cells": [
+        "㈜엔투비",
+        "전자상거래",
+        "69.32",
+        "-",
+        "69.32",
+        "서울"
+      ],
+      "page": 15,
+      "domesticOverseas": "국내"
+    },
+    {
+      "cells": [
+        "㈜포스코엠텍(주1)",
+        "철강제품 포장 및 철강부원료 생산/판매",
+        "48.85",
+        "-",
+        "48.85",
+        "경북 포항"
+      ],
+      "page": 15,
+      "domesticOverseas": "국내"
+    },
+    {
+      "cells": [
+        "㈜피엔알",
+        "철강 부산물 가공 및 판매",
+        "70.00",
+        "-",
+        "70.00",
+        "경북 포항"
+      ],
+      "page": 15,
+      "domesticOverseas": "국내"
+    },
+    {
+      "cells": [
+        "㈜포스코휴먼스",
+        "사업 지원 서비스",
+        "75.49",
+        "0.78",
+        "76.27",
+        "경북 포항"
+      ],
+      "page": 15,
+      "domesticOverseas": "국내"
+    },
+    {
+      "cells": [
+        "POSCO (Thailand) Company.Ltd",
+        "철강재 가공 및 판매",
+        "100.00",
+        "-",
+        "100.00",
+        "태국"
+      ],
+      "page": 15,
+      "domesticOverseas": "해외"
+    },
+    {
+      "cells": [
+        "POSCO-MKPC SDN BHD",
+        "철강재 가공 및 판매",
+        "70.00",
+        "-",
+        "70.00",
+        "말레이시아"
+      ],
+      "page": 15,
+      "domesticOverseas": "해외"
+    },
+    {
+      "cells": [
+        "POSCO-India Private Limited",
+        "철강재 제조 및 판매",
+        "100.00",
+        "-",
+        "100.00",
+        "인도"
+      ],
+      "page": 15,
+      "domesticOverseas": "해외"
+    },
+    {
+      "cells": [
+        "POSCO-VIETNAM Co., Ltd.",
+        "철강재 제조 및 판매",
+        "100.00",
+        "-",
+        "100.00",
+        "베트남"
+      ],
+      "page": 15,
+      "domesticOverseas": "해외"
+    },
+    {
+      "cells": [
+        "POSCO Thainox Public Company Limited",
+        "STS 냉연 제조 및 판매",
+        "74.56",
+        "-",
+        "74.56",
+        "태국"
+      ],
+      "page": 15,
+      "domesticOverseas": "해외"
+    },
+    {
+      "cells": [
+        "POSCO(Chongqing) Automotive Processing Center Co., Ltd.",
+        "철강재 가공 및 판매",
+        "90.00",
+        "-",
+        "90.00",
+        "중국"
+      ],
+      "page": 16,
+      "domesticOverseas": "해외"
+    },
+    {
+      "cells": [
+        "POSCO-Malaysia SDN. BHD.",
+        "철강재 가공 및 판매",
+        "81.80",
+        "-",
+        "81.80",
+        "말레이시아"
+      ],
+      "page": 16,
+      "domesticOverseas": "해외"
+    },
+    {
+      "cells": [
+        "Myanmar POSCO C&C Company,Limited.",
+        "철강재 가공 및 판매",
+        "-",
+        "70.00",
+        "70.00",
+        "미얀마"
+      ],
+      "page": 16,
+      "domesticOverseas": "해외"
+    },
+    {
+      "cells": [
+        "POSCO COATED STEEL (THAILAND) CO., LTD.",
+        "자동차용 강판 제조 및 판매",
+        "100.00",
+        "-",
+        "100.00",
+        "태국"
+      ],
+      "page": 16,
+      "domesticOverseas": "해외"
+    },
+    {
+      "cells": [
+        "POSCO ChengDu Processing Center(주1)",
+        "철강재 가공 및 판매",
+        "33.00",
+        "-",
+        "33.00",
+        "중국"
+      ],
+      "page": 16,
+      "domesticOverseas": "해외"
+    },
+    {
+      "cells": [
+        "POSCO Philippine Manila Processing Center, Inc.",
+        "철강재 가공 및 판매",
+        "100.00",
+        "-",
+        "100.00",
+        "필리핀"
+      ],
+      "page": 16,
+      "domesticOverseas": "해외"
+    },
+    {
+      "cells": [
+        "POSCO TNPC Otomotiv Celik San. Ve Tic. A.S",
+        "철강재 가공 및 판매",
+        "100.00",
+        "-",
+        "100.00",
+        "터키"
+      ],
+      "page": 16,
+      "domesticOverseas": "해외"
+    },
+    {
+      "cells": [
+        "POSCO BRAZIL LTDA",
+        "사무행정, 경영컨설팅",
+        "100.00",
+        "-",
+        "100.00",
+        "브라질"
+      ],
+      "page": 16,
+      "domesticOverseas": "해외"
+    },
+    {
+      "cells": [
+        "POSCO YAMATO VINA STEEL JOINT STOCK COMPANY",
+        "철강재 제조 및 판매",
+        "51.00",
+        "-",
+        "51.00",
+        "베트남"
+      ],
+      "page": 16,
+      "domesticOverseas": "해외"
+    }
+  ],
+  "currentFinance": [
+    {
+      "cells": [
+        "포스코스틸리온 주식회사 (구, 포스코강판㈜)",
+        "531,891",
+        "201,053",
+        "330,838",
+        "964,152",
+        "5,202"
+      ],
+      "page": 17
+    },
+    {
+      "cells": [
+        "㈜엔투비",
+        "192,658",
+        "128,013",
+        "64,645",
+        "47,326",
+        "1,015"
+      ],
+      "page": 17
+    },
+    {
+      "cells": [
+        "㈜포스코엠텍",
+        "147,012",
+        "32,170",
+        "114,842",
+        "283,635",
+        "2,266"
+      ],
+      "page": 17
+    },
+    {
+      "cells": [
+        "㈜피엔알",
+        "50,628",
+        "38,517",
+        "12,111",
+        "35,681",
+        "(8,954)"
+      ],
+      "page": 17
+    },
+    {
+      "cells": [
+        "㈜포스코휴먼스",
+        "21,553",
+        "6,867",
+        "14,686",
+        "44,164",
+        "40"
+      ],
+      "page": 17
+    },
+    {
+      "cells": [
+        "POSCO (Thailand) Company.Ltd",
+        "166,117",
+        "62,382",
+        "103,735",
+        "11,177",
+        "(106)"
+      ],
+      "page": 17
+    },
+    {
+      "cells": [
+        "POSCO-MKPC SDN BHD",
+        "153,081",
+        "85,891",
+        "67,190",
+        "7,583",
+        "199"
+      ],
+      "page": 17
+    },
+    {
+      "cells": [
+        "POSCO-India Private Limited",
+        "86,297",
+        "463",
+        "85,834",
+        "-",
+        "(54)"
+      ],
+      "page": 17
+    },
+    {
+      "cells": [
+        "POSCO-VIETNAM Co., Ltd.",
+        "321,430",
+        "305,759",
+        "15,671",
+        "13,645",
+        "(2,587)"
+      ],
+      "page": 17
+    },
+    {
+      "cells": [
+        "POSCO Thainox Public Company Limited",
+        "419,425",
+        "83,801",
+        "335,624",
+        "19,802",
+        "(2,118)"
+      ],
+      "page": 17
+    },
+    {
+      "cells": [
+        "POSCO(Chongqing) Automotive Processing Center Co., Ltd.",
+        "61,954",
+        "32,258",
+        "29,696",
+        "3,288",
+        "(189)"
+      ],
+      "page": 17
+    },
+    {
+      "cells": [
+        "POSCO-Malaysia SDN. BHD.",
+        "72,459",
+        "75,321",
+        "(2,862)",
+        "2,606",
+        "337"
+      ],
+      "page": 17
+    },
+    {
+      "cells": [
+        "Myanmar POSCO C&C Company,Limited.",
+        "22,023",
+        "18,619",
+        "3,404",
+        "17,139",
+        "355"
+      ],
+      "page": 17
+    },
+    {
+      "cells": [
+        "POSCO COATED STEEL (THAILAND) CO., LTD.",
+        "319,379",
+        "235,672",
+        "83,707",
+        "7,359",
+        "(348)"
+      ],
+      "page": 17
+    },
+    {
+      "cells": [
+        "POSCO ChengDu Processing Center",
+        "32,518",
+        "22,474",
+        "10,044",
+        "721",
+        "(147)"
+      ],
+      "page": 17
+    },
+    {
+      "cells": [
+        "POSCO Philippine Manila Processing Center, Inc.",
+        "24,523",
+        "5,163",
+        "19,360",
+        "639",
+        "(92)"
+      ],
+      "page": 17
+    },
+    {
+      "cells": [
+        "POSCO TNPC Otomotiv Celik San. Ve Tic. A.S",
+        "74,336",
+        "63,899",
+        "10,437",
+        "3,371",
+        "(481)"
+      ],
+      "page": 17
+    },
+    {
+      "cells": [
+        "POSCO BRAZIL LTDA",
+        "462",
+        "11",
+        "451",
+        "-",
+        "(52)"
+      ],
+      "page": 17
+    },
+    {
+      "cells": [
+        "POSCO YAMATO VINA STEEL JOINT STOCK COMPANY",
+        "446,881",
+        "153,467",
+        "293,414",
+        "12,381",
+        "459"
+      ],
+      "page": 17
+    }
+  ],
+  "previousFinance": [],
+  "additions": [
+    {
+      "name": "POSCO BRAZIL LTDA",
+      "date": "2022년 10월",
+      "reason": "신규설립",
+      "page": 20
+    },
+    {
+      "name": "POSCO (Thailand) Company.Ltd",
+      "date": "2022년 12월",
+      "reason": "포스코홀딩스㈜로부터 취득",
+      "page": 20
+    },
+    {
+      "name": "(주)엔투비",
+      "date": "2022년 12월",
+      "reason": "포스코홀딩스㈜로부터 취득",
+      "page": 20
+    },
+    {
+      "name": "POSCO-MKPC SDN BHD",
+      "date": "2022년 12월",
+      "reason": "포스코홀딩스㈜로부터 취득",
+      "page": 20
+    },
+    {
+      "name": "POSCO-India Private Limited",
+      "date": "2022년 12월",
+      "reason": "포스코홀딩스㈜로부터 취득",
+      "page": 20
+    },
+    {
+      "name": "POSCO-VIETNAM Co., Ltd.",
+      "date": "2022년 12월",
+      "reason": "포스코홀딩스㈜로부터 취득",
+      "page": 20
+    },
+    {
+      "name": "POSCO Thainox Public Company Limited",
+      "date": "2022년 12월",
+      "reason": "포스코홀딩스㈜로부터 취득",
+      "page": 20
+    },
+    {
+      "name": "POSCO(Chongqing) Automotive Processing Center Co., Ltd.",
+      "date": "2022년 12월",
+      "reason": "포스코홀딩스㈜로부터 취득",
+      "page": 20
+    },
+    {
+      "name": "POSCO-Malaysia SDN. BHD.",
+      "date": "2022년 12월",
+      "reason": "포스코홀딩스㈜로부터 취득",
+      "page": 20
+    },
+    {
+      "name": "POSCO COATED STEEL (THAILAND) CO., LTD.",
+      "date": "2022년 12월",
+      "reason": "포스코홀딩스㈜로부터 취득",
+      "page": 20
+    },
+    {
+      "name": "POSCO ChengDu Processing Center",
+      "date": "2022년 12월",
+      "reason": "포스코홀딩스㈜로부터 취득",
+      "page": 20
+    },
+    {
+      "name": "POSCO TNPC Otomotiv Celik San. Ve Tic. A.S",
+      "date": "2022년 12월",
+      "reason": "포스코홀딩스㈜로부터 취득",
+      "page": 20
+    },
+    {
+      "name": "POSCO YAMATO VINA STEEL JOINT STOCK COMPANY",
+      "date": "2022년 12월",
+      "reason": "포스코홀딩스㈜로부터 취득",
+      "page": 20
+    },
+    {
+      "name": "POSCO Philippine Manila Processing Center, Inc.",
+      "date": "2022년 12월",
+      "reason": "포스코홀딩스㈜로부터 취득",
+      "page": 20
+    }
+  ],
+  "exclusions": [],
+  "declaredDomestic": 5,
+  "declaredOverseas": 14,
+  "noExclusionsConfirmed": true
+}
